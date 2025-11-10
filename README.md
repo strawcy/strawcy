@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Uni ୨ৎ
 
-## 🌟 About Me
-Dreaming in code and building my way through the web, one pixel at a time.
+## 💫 About Me
+- 🔭 I’m currently studying at Cavite State University- IMUS Campus
+- 🌱 I’m currently learning Information Technology
+- ⚡ I like editing and creating digital arts!
+
 
 ---
 
